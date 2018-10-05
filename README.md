@@ -19,7 +19,7 @@ Pro základní pochopení struktury programů si můžete vyzkoušet například
  - blok kódu
    - seznam příkazů vykonávaných za nějaké situace (podmínka, cyklus)
    - oddělený odsazením
-     - 2 mezery nebo tabulátor
+     - 4 mezery nebo tabulátor
      - musí být konzistentní v celém zdrojovém kódu
  - porovnání vs. přiřazení
    - `=` je přiřazení, výsledkem je hodnota přiřazeného výrazu
