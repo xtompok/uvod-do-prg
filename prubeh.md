@@ -6,3 +6,6 @@
 * převod stupňů na DMS
 * výpočet obsahu kruhu a čtverce
 
+## 2. cvičení
+* správa zdrojového kódu (Git)
+* želví grafika 
