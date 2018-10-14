@@ -9,3 +9,7 @@
 ## 2. cvičení
 * správa zdrojového kódu (Git)
 * želví grafika 
+* for cyklus
+* while cyklus
+* kreslíme šestiúhelníkovou síť
+* počítáme volební hlasy
