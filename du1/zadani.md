@@ -3,7 +3,7 @@
 ## Motivace
 Vzpomeňte si na prváckou kartografii a na mapu zobrazení. Počítat polohu
 jednotlivých poledníků a rovnoběžek bylo na kalkulačce nepohodlné, GISy jste
-ještě všichni neznali a tak to dalo docela práci. Protože se jedná o nudou
+ještě všichni neznali a tak to dalo docela práci. Protože se jedná o nudnou
 výpočetní činnost, je nejpohodlnější si ji automatizovat pomocí programu.
 
 ## Zadání
