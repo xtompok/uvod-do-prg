@@ -13,3 +13,20 @@
 * while cyklus
 * kreslíme šestiúhelníkovou síť
 * počítáme volební hlasy
+
+## 3. cvičení
+* funkce
+* hádáme číslo
+
+## 4. cvičení
+* seznamy
+  * kvadratická rovnice
+  * prvočísla
+* ntice
+* zadání domácího úkolu
+
+## 5. cvičení
+* slovník
+* soubory
+
+
