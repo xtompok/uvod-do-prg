@@ -83,3 +83,18 @@ odmocnina_z_peti = sqrt(5)
  - používáme se standardní matematické operátory
  - `**` je umocnění
  - mnoho užitečných funkcí najdete v modulu [math](https://docs.python.org/3.7/library/math.html)
+
+## JSON a GeoJSON
+ - formát pro ukládání dat
+ - původně vznikl v rámci JavaScriptu
+ - [specifikace JSONu](https://www.json.org/)
+ - datové typy podobné typům v Pythonu
+   - true, false, null
+   - čísla
+   - řetězce
+   - array (seznam)
+   - object (slovník)
+ - GeoJSON je způsob ukládání geodat pomocí JSONu
+ - [specifikace GeoJSONu](https://tools.ietf.org/html/rfc7946)
+ - data v GeoJSONu lze snadno vložit na web pomocí knihovny Leaflet
+

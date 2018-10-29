@@ -27,6 +27,11 @@
 
 ## 5. cvičení
 * slovník
+* JSON a GeoJSON
 * soubory
+* [seznam zastávek v PID](http://www.geoportalpraha.cz/cs/opendata/63EF19FE-C2FB-4FC2-8C2D-EEBB72C6B81A#.W9cunxCNxhG)
+* filtrujeme zastávky podle pásma, doplňujeme slovní popis druhů dopravy
 
-
+## 6. cvičení (plán)
+* zápis do souboru
+* výjimky
