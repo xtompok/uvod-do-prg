@@ -16,3 +16,4 @@ with open("DOP_PID_ZASTAVKY_B.json",encoding="utf-8") as f:
 features = zastavky["features"]
 zastavky_P = zastavky_v_pasmu(features,"P")
 print(zastavky_P)
+exit()
