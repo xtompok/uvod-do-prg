@@ -32,6 +32,12 @@
 * [seznam zastávek v PID](http://www.geoportalpraha.cz/cs/opendata/63EF19FE-C2FB-4FC2-8C2D-EEBB72C6B81A#.W9cunxCNxhG)
 * filtrujeme zastávky podle pásma, doplňujeme slovní popis druhů dopravy
 
-## 6. cvičení (plán)
+## 6. cvičení
 * zápis do souboru
 * výjimky
+* počítáme, kolik je zastávek od každého jména
+
+## 7. cvičení (plán)
+* dodělání, kolik je zastávek od každého jména
+* úvod do rekurze
+* kreslíme Kochovu vločku a jiné fraktály
