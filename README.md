@@ -98,3 +98,8 @@ odmocnina_z_peti = sqrt(5)
  - [specifikace GeoJSONu](https://tools.ietf.org/html/rfc7946)
  - data v GeoJSONu lze snadno vložit na web pomocí knihovny Leaflet
 
+## Rekurze
+ - způsob, jak převést řešení problému na řešení menších podproblémů
+ - funkce řešící nějaký problém vyřeší jeho část a zavolá sama sebe na nějaký(é) jednodušší podproblém(y)
+ - je potřeba definovat koncovou podmínku, kdy už vyřešíme celý zbytek problému, aby se funkce nevolala donekonečna
+

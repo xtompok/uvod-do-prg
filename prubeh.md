@@ -37,7 +37,15 @@
 * výjimky
 * počítáme, kolik je zastávek od každého jména
 
-## 7. cvičení (plán)
+## 7. cvičení
 * dodělání, kolik je zastávek od každého jména
 * úvod do rekurze
 * kreslíme Kochovu vločku a jiné fraktály
+* binární vyhledávání v setřízeném seznamu
+
+## 8. cvičení (plán)
+* testování
+* argumenty příkazové řádky
+* jak předat programu vstup 
+* třízení zastávek podle bariérovosti
+* dělení bodových dat na stejně velké skupiny
