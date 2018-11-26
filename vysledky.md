@@ -15,5 +15,5 @@ K získání zápočtu je třeba z úkolů (budou celkem 3) získat alespoň 23 
 | Martin P.	| 7,5	|
 | Michal M.	| 17	|
 | Petra L.	| 13	|
-| Samo Rusnak	| 14	|
+| Samo R.	| 14	|
 | Tomáš K.	| 13	|
