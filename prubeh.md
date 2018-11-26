@@ -43,9 +43,13 @@
 * kreslíme Kochovu vločku a jiné fraktály
 * binární vyhledávání v setřízeném seznamu
 
-## 8. cvičení (plán)
+## 8. cvičení
+* dělení kódu do modulů
 * testování
 * argumenty příkazové řádky
 * jak předat programu vstup 
 * třízení zastávek podle bariérovosti
 * dělení bodových dat na stejně velké skupiny
+
+## 9. cvičení (plán)
+* pokračování dělení bodových dat

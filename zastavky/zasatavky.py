@@ -37,6 +37,13 @@ def uloz_nasobnosti(nas):
         writer.writerows(nas.items())
 
 nas = {"Anděl":10, "Zlíchov":4, "Lihovar":2}
+nas = {}
+for z in zastavky_P:
+    if z not in nas:
+        nas[z] = 1
+    else:
+        nas[z] += 1
+        
 uloz_nasobnosti(nas)
 
 exit()
