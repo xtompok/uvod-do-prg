@@ -103,3 +103,29 @@ odmocnina_z_peti = sqrt(5)
  - funkce řešící nějaký problém vyřeší jeho část a zavolá sama sebe na nějaký(é) jednodušší podproblém(y)
  - je potřeba definovat koncovou podmínku, kdy už vyřešíme celý zbytek problému, aby se funkce nevolala donekonečna
 
+## Předávání vstupu programům
+ - program obvykle potřebuje nějaká vstupní data, se kterými pak dále počítá
+ - existují různé způsoby, jak tato data programu předat:
+     - interaktivně (pomocí `input`)
+         - vhodné, pokud s programem pracuje přímo uživatel
+	 - možnost opakovat zadání při chybném vstupu
+	 - nevhodné pro automatické spouštění
+     - čtení z pevně zadaného souboru
+         - jednoduché na implementaci
+	 - vhodné pro automatické spouštění
+	 - pokud máme více vstupních souborů, musíme je mezi jednotlivými spuštěními přejmenovávat, což je náchylné na chyby
+     - předání argumentů na příkazové řádce
+         - vhodné pro automatické spouštění
+	 - umožňuje snadno parametrizovat běh programu i při automatickém spouštění
+	 - náročnější na implementaci
+
+## Práce s argumenty příkazové řádky
+ - je potřeba importovat modul `sys`
+ - `sys.argv` obsahuje seznam všech argumentů
+   - `sys.argv[0]` je jméno programu, pomocí kterého byl spuštěn
+   - od `sys.argv[1]` začínají jednotlivé argumenty, v tom pořadí v jakém byly zadány
+ - soubory se zadávají obvykle svým jménem
+ - parametry ovlivňující běh programu obvykle jako `-<pismeno> [hodnota]`
+   - `pismeno` je písmeno určující, který parametr chceme nastavit
+   - `hodnota` (volitelná) je hodnota, na kterou chceme parametr nastavit
+ - pro příjemnější práci s argumenty se hodí modul `click`
