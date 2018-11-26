@@ -1,6 +1,6 @@
 # Domácí úkol 2 - dělení adresních bodů
 
-Deadline bude 15. 12. 2018 v 8.03.
+Deadline bude 16. 12. 2018 v 8.03.
 
 ## Motivace
 
