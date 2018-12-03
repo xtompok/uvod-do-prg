@@ -49,7 +49,14 @@
 * argumenty příkazové řádky
 * jak předat programu vstup 
 * třízení zastávek podle bariérovosti
-* dělení bodových dat na stejně velké skupiny
+* dělení bodových dat metodou kd-tree
 
-## 9. cvičení (plán)
-* pokračování dělení bodových dat
+## 9. cvičení
+* dělení bodových dat metodou kd-tree
+* oznámení domácího úkolu
+
+## 10. cvičení
+* zadání domácího úkolu
+* objektově orientované programování
+* hierarchie grafických objektů pomocí OOP
+
