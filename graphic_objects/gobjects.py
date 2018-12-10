@@ -1,4 +1,4 @@
-from graphic_objects import Point,Polyline,Polygon
+from graphic_objects import Point,Polyline,Polygon,Rectangle, LineSegment
 import turtle
 
 pt = Point(0,0)
