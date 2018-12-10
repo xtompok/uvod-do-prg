@@ -30,7 +30,7 @@ Vstup je uložen ve formátu [GeoJSON][2] jako [FeatureColection][3] bodů. Kaž
 nějaké properties, jejich hodnoty nás nezajímají, ale chceme je zachovat do
 výstupního souboru.
 
-Testovací vstupy si můžete vygenerovat například pomocí [Overpass Turbo] [4],
+Testovací vstupy si můžete vygenerovat například pomocí [Overpass Turbo][4],
 uložíte pomocí `Export` -> `download as GeoJSON`, mapou můžete posouvat a měnit
 zoom, nové body vygenerujete pomocí `Run`.
 
