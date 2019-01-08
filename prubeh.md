@@ -60,3 +60,31 @@
 * objektově orientované programování
 * hierarchie grafických objektů pomocí OOP
 
+## 11. cvičení
+* opakování důležitých principů OOP
+* barvy a bounding box ke grafickým objektům
+
+## 12. cvičení
+* co se nestihlo, aneb různé užitečné drobnosti
+  * map, filter
+  * enumerate
+  * min, max
+  * list comprehensions
+* stahování souborů z webu
+  * urllib
+  * stahování souborů s odvoditelným jménem
+  * stahování real-time dat (polohy vozů MHD v Brně)
+
+## 13. cvičení
+* práce s rastrovými daty - modul Pillow
+  * výpočet NDWI
+  * spojování obrázků v jeden velký
+* anketa
+* cukroví
+* co bude v navazujícím kurzu programování
+  * grafické rozhraní
+  * rozsáhlejší příklady
+  * další zajímavé moduly pro Python
+  * časová analýza algoritmů - kdy vám nepomůže rychlejší počítač
+  * grafové algoritmy
+

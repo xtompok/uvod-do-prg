@@ -129,3 +129,9 @@ odmocnina_z_peti = sqrt(5)
    - `pismeno` je písmeno určující, který parametr chceme nastavit
    - `hodnota` (volitelná) je hodnota, na kterou chceme parametr nastavit
  - pro příjemnější práci s argumenty se hodí modul `click`
+
+## Užitečné moduly
+ - práce se shapefily: Fiona (https://fiona.readthedocs.io/en/latest/)
+ - zpracování argumentů příkazové řádky: Click (https://click.palletsprojects.com/en/7.x/)
+ - stahování dat z webu: urllib (obsažena ve výchozí instalaci Pythonu)
+ - práce s rastrovámi daty: Pillow (https://pillow.readthedocs.io/en/stable/)
